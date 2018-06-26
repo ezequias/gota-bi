@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -44,20 +44,24 @@
      inkscape:window-height="715"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.88508846"
-     inkscape:cx="313.59169"
-     inkscape:cy="699.96862"
+     inkscape:zoom="0.62585205"
+     inkscape:cx="732.8074"
+     inkscape:cy="563.29178"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="g4516"
+     showguides="true"
+     inkscape:guide-bbox="true" />
   <rect
      style="opacity:1;fill:#f4f5f7;fill-opacity:1;stroke:none;stroke-width:0.53418523;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:1.60255557, 1.60255557;stroke-dashoffset:0;stroke-opacity:1"
      id="rect4499"
      width="357.02646"
      height="453.94125"
      x="227.66322"
-     y="191.76881" />
+     y="191.76881"
+     inkscape:export-xdpi="157"
+     inkscape:export-ydpi="157" />
   <g
      id="g4524"
      transform="translate(0,14.056548)">
@@ -69,7 +73,9 @@
        id="image4509"
        x="270.92661"
        y="289.97006"
-       sodipodi:absref="C:\Users\ezequ\Downloads\Blue-Abstract-Logo-in-Modern-Design\gota.png" />
+       sodipodi:absref="C:\Users\ezequ\Downloads\Blue-Abstract-Logo-in-Modern-Design\gota.png"
+       inkscape:export-xdpi="157"
+       inkscape:export-ydpi="157" />
     <g
        transform="matrix(0.71423043,0,0,0.71423043,115.15581,56.460829)"
        id="g4516">
@@ -78,7 +84,9 @@
          y="277.96405"
          x="221.62578"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96.01467133px;line-height:125%;font-family:'Baron Neue';-inkscape-font-specification:'Baron Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#444243;fill-opacity:1;stroke:none;stroke-width:2.40036249px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
+         xml:space="preserve"
+         inkscape:export-xdpi="157"
+         inkscape:export-ydpi="157"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96.01467133px;font-family:'Baron Neue';-inkscape-font-specification:'Baron Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#444243;fill-opacity:1;stroke-width:2.40036249px"
            y="277.96405"
            x="221.62578"
@@ -86,15 +94,17 @@
            sodipodi:role="line">gOTA-bi</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:10.20022869px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#5b5b5f;fill-opacity:1;stroke:none;stroke-width:0.25500572px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="234.51228"
-         y="296.18741"
-         id="text4497"><tspan
+         style="font-style:normal;font-weight:normal;font-size:12.3702879px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#5b5b5f;fill-opacity:1;stroke:none;stroke-width:0.30925721px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="226.45769"
+         y="298.35852"
+         id="text4497"
+         inkscape:export-xdpi="157"
+         inkscape:export-ydpi="157"><tspan
            sodipodi:role="line"
            id="tspan4495"
-           x="234.51228"
-           y="296.18741"
-           style="stroke-width:0.25500572px">INTELIGÊNCIA DE NEGÓCIO APLICADA A DISTRIBUIÇÃO DE ÁGUA</tspan></text>
+           x="226.45769"
+           y="298.35852"
+           style="stroke-width:0.30925721px">INTELIGÊNCIA DE NEGÓCIO APLICADA A SANEAMENTO</tspan></text>
     </g>
   </g>
 </svg>
